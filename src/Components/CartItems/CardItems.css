@@ -1,0 +1,115 @@
+
+.cartItem-page{
+    margin-top: -60px;
+    margin-bottom: 70px;
+    color: rgb(27, 27, 22);
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    text-align: center;
+    width: 200px;
+    background: #eaeaea;    
+}
+
+.cartItems{
+    margin: 100px 170px;
+}
+
+
+.cartItems hr{
+    height: 3px;
+    background: #e2e2e2;
+    border: 0;
+}
+.cartItems-format-main{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
+    gap: 70px;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cartItems-format{
+    font-size: 17px;
+    font-weight: 500;
+}
+.cartIcon-product-icon{
+    height: 62px;
+}
+.cartItem-remove-icon{
+    width: 15px;
+    margin: 0px 40px;
+    cursor: pointer;
+}
+.cartItems-quantity{
+    width: 64px;
+    height: 50px;
+    border: 2px solid #ebebeb;
+    background: #fff;
+}
+
+.cartItems-down{
+    display: flex;
+    margin: 100px 0px;
+
+}
+.cartItems-total{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-right: 200px;
+    gap: 40px;
+}
+.cartItems-total-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0px;
+
+}
+.cartItems-total button{
+    width: 262px;
+    height: 58px;
+    outline: none;
+    border: none;
+    background: #ff5a5a;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.cartItems-promocode{
+    flex: 1;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+.cartItems-promocode p{
+    color: #555;
+
+}
+.cartItems-promobox{
+    width: 504px;
+    height: 58px;
+    padding-left: 20px;
+    background: #eaeaea;
+    margin-top: 15px;
+}
+.cartItems-promobox input{
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    width: 330px;
+    height: 50px;
+}
+.cartItems-promobox button{
+    width: 170px;
+    height: 58px;
+    font-size: 16px;
+    background: black;
+    color: white;
+    cursor: pointer;
+}
