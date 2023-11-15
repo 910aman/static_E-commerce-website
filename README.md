@@ -7,28 +7,28 @@
 <h1 align='center'> Hello, I am Aman Chauhan </h1>  
 I have created a complete e-commerce website using the React and It is a Static website:
 
-Navigation Bar:
-
+<b>Navigation Bar:<b/>
 The video begins with the creation of a navigation bar, allowing users to navigate to different pages on the website.
+
 Homepage:
-
 The homepage features a hero element, creating a visually appealing introduction to the website.
+
 Product Showcase:
+Products popular in the "man","women" and "kids" category are highlighted on the homepage, providing users with quick access to popular items.
 
-Products popular in the "bman" category are highlighted on the homepage, providing users with quick access to popular items.
 Exclusive Deals Banner:
-
 An exclusive deals banner is showcased, where special offers or promotions can be displayed to attract customer attention.
+
 New Collections:
-
 The video covers the process of adding new products from an admin panel, and these new additions are dynamically displayed in the new collections section.
+
 Newsletter Subscription Box:
-
 A newsletter subscription box is implemented, allowing users to subscribe for updates, promotions, or newsletters.
-Footer:
 
+Footer:
 The video concludes with the creation of a footer containing links to various sections, providing additional information and navigation options.
-Overall, the tutorial seems to cover the essential elements of an e-commerce website, including navigation, product display, promotions, and user engagement features like newsletter subscriptions. Viewers can expect to learn how to build these components using the M Stack technology.
+
+Overall, the essential elements of an e-commerce website, including navigation, product display, promotions, and user engagement features like newsletter subscriptions. Viewers can expect to learn how to build these components using the M Stack technology.
  
 
 
