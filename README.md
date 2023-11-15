@@ -5,24 +5,31 @@
      
 </div>   
 <h1 align='center'> Hello, I am Aman Chauhan </h1>  
-     
+I have created a complete e-commerce website using the React and It is a Static website:
+
+Navigation Bar:
+
+The video begins with the creation of a navigation bar, allowing users to navigate to different pages on the website.
+Homepage:
+
+The homepage features a hero element, creating a visually appealing introduction to the website.
+Product Showcase:
+
+Products popular in the "bman" category are highlighted on the homepage, providing users with quick access to popular items.
+Exclusive Deals Banner:
+
+An exclusive deals banner is showcased, where special offers or promotions can be displayed to attract customer attention.
+New Collections:
+
+The video covers the process of adding new products from an admin panel, and these new additions are dynamically displayed in the new collections section.
+Newsletter Subscription Box:
+
+A newsletter subscription box is implemented, allowing users to subscribe for updates, promotions, or newsletters.
+Footer:
+
+The video concludes with the creation of a footer containing links to various sections, providing additional information and navigation options.
+Overall, the tutorial seems to cover the essential elements of an e-commerce website, including navigation, product display, promotions, and user engagement features like newsletter subscriptions. Viewers can expect to learn how to build these components using the M Stack technology.
  
-<h4 align="center">
-<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
-</h4> 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Fi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<br>
-<br>
-  <summary>
-  <h3> 📚 Social Midia</h3>
-  </summary>
-
-<br>
-<br>
 
 
 #How to Run and Deploy a Project 
