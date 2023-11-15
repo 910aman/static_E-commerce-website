@@ -4,9 +4,7 @@
              
      
 </div>   
-<h1 align='center'> Hello, I am 0101001010101010101010 </h1>
-### Developer and author of the AutoFi library, published on pypi https://pypi.org !!
-  
+<h1 align='center'> Hello, I am Aman Chauhan </h1>  
      
  
 <h4 align="center">
